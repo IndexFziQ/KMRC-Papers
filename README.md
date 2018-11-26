@@ -7,7 +7,7 @@ Contributed by Luxi Xing and Yuqiang Xie.
 *Org.: National Engineering Laboratory for Information Security Technologies, IIE, CAS.*
 
 | Notes | Confere.   | Title | Authors/Org. | Field |
-| :---: | :--------- | :---- | :----------- | :---- |
+| :---: | :--------: | :---: | :----------: | :---: |
 | 1     | ACL17   | Leveraging knowledge bases in lstms for improving machine reading.  [paper](https://doi.org/10.18653/v1/P17-1132) | Yang, et al. /CMU                         | KMRC  |
 | 1     | ACL17   | World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions. [paper](http://www.aclweb.org/anthology/D17-1086) | Long, et al. /McGill University           | KMRC  | 
 | 1     | ACL18   | Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge. [paper](http://aclweb.org/anthology/P18-1076) | Mihaylov, et al. /Heidelberg University   | KMRC  | 

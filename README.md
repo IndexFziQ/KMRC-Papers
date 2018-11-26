@@ -9,7 +9,7 @@ Contributed by Luxi Xing and Yuqiang Xie.
 | Notes | Confere.   | Title | Authors/Org. | Field | 
 | :---: | :--------: | :---: | :----------: | :---: |
 | 1     | ACL17   | [Leveraging knowledge bases in lstms for improving machine reading.](https://doi.org/10.18653/v1/P17-1132)   | Yang, et al. /CMU                         | KMRC  |
-| 1     | ACL17   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions.]  | Long, et al. /McGill University           | KMRC  | [paper](http://www.aclweb.org/anthology/D17-1086) |
+| 1     | ACL17   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions.](http://www.aclweb.org/anthology/D17-1086)  | Long, et al. /McGill University           | KMRC  | 
 | 1     | ACL18   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge.](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al. /Heidelberg University   | KMRC  |
 | 2     | ACL17   | [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings.](http://aclweb.org/anthology/P17-1162) | He, et al. /Stanford University           | KDS   | 
 | 2     | IJCAI18 | [Commonsense Knowledge Aware Conversation Generation with Graph Attention.](https://www.ijcai.org/proceedings/2018/0643.pdf) | Zhou, et al. /THU                         | KDS   | 

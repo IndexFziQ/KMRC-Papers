@@ -3,6 +3,7 @@
 A list of recent papers regarding knowledge-based machine reading comprehension.
 
 Contributed by Luxi Xing and Yuqiang Xie. 
+
 *Org.: National Engineering Laboratory for Information Security Technologies, IIE, CAS.*
 
 | Notes | Confere.   | Title | Authors/Org. | Field |

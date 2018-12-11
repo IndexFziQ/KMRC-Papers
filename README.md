@@ -15,6 +15,7 @@ Contributed by Luxi Xing and Yuqiang Xie.
 | 2     | ACL17   | [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](http://aclweb.org/anthology/P17-1162) | He, et al. /Stanford University           | KDS   | 
 | 2     | IJCAI18 | [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf) | Zhou, et al. /THU                         | KDS   | 
 | 2     | AAAI18  | [A Knowledge-Grounded Neural Conversation Model](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/A_Knowledge_Grounded_Neural_Conversation_Model.pdf)               | Ghazvininejad, et al./ Microsoft Research | KDS   |
+| 2     | AAAI18   | [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) | Zhu, et al. /HKUST                       | KDS   | 
 | 2     | ACL18   | [Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval](http://aclweb.org/anthology/P18-1223) | Liu, et al. /THU                          | KIR   | 
 | 3     | ICLR17  | [A Neural Knowledge Language Model](https://arxiv.org/pdf/1608.00318v1.pdf)                            | Ahn.et al. /Université de Montréal                         | NKLM  |
 | 3     | ACL17   | [Improved Word Representation Learning with Sememes](http://aclweb.org/anthology/P17-1187)           | Niu, et al. /THU                          | SC   |

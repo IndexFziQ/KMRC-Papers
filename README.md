@@ -8,7 +8,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 
 ## NLI with Knowledge
 
-| Confere.   | Title | Authors/Org. | Note |
+| Conf.   | Title | Authors/Org. | Note |
 | :--------: | :---  | :----------- | :---:|
 | ACL<br>2018 | Neural Natural Language Inference Models Enhanced with External Knowledge | Qian Chen | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/kim.md) |
  

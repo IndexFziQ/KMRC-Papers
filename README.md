@@ -18,7 +18,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | :---------: | :--- | :----------- | :---:|
 | ACL,2017   | [Leveraging knowledge bases in lstms for improving machine reading](https://doi.org/10.18653/v1/P17-1132)   | Yang, et al.<br>CMU | |
 | ACL,2017   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions](http://www.aclweb.org/anthology/D17-1086)  | Long, et al.<br>McGill University| |
-| ACL,2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   |  |
+| ACL,2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/knreader.md) |
 
 ## Dialog with Knowledge  
 

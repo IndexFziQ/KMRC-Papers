@@ -10,7 +10,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 
 | Confere.   | Title | Authors/Org. | Note |
 | :--------: | :---  | :----------- | :---:|
-| ACL,2018 | Neural Natural Language Inference Models Enhanced with External Knowledge | Qian Chen | |
+| ACL,2018 | Neural Natural Language Inference Models Enhanced with External Knowledge | Qian Chen | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/kim.md) |
  
 ## MRC with Knowledge
 

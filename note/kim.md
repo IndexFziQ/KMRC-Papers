@@ -4,6 +4,6 @@
 
 ## Model Framework
 
-![KI](media/KIM-1.png)
+![KIM](../img/KIM.png)
 
  

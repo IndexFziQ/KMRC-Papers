@@ -29,7 +29,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | AAAI<br>2018  | [A Knowledge-Grounded Neural Conversation Model](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/A_Knowledge_Grounded_Neural_Conversation_Model.pdf) | Ghazvininejad, et al.<br>Microsoft Research |  |
 | AAAI<br>2018   | [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) | Zhu, et al.<br>HKUST | |
 
-## LM with Knowledge 
+## Representation with Knowledge 
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|

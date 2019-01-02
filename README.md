@@ -33,10 +33,12 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|
+| EMNLP<br>2015  | [Representing Text for Joint Embedding of Text and Knowledge Bases](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/emnlp15.pdf) | Toutanova, et al.<br>MS | | 
 | ICLR<br>2017  | [A Neural Knowledge Language Model](https://arxiv.org/pdf/1608.00318v1.pdf)                            | Ahn.et al.<br>Université de Montréal | |
 | ACL<br>2017   | [Improved Word Representation Learning with Sememes](http://aclweb.org/anthology/P17-1187)           | Niu, et al.<br>THU | |
 | ACL<br>2018   | [Cross-lingual Lexical Sememe Prediction](http://aclweb.org/anthology/D18-1033)                      | Qi, et al.<br>THU| |
 | AAAI<br>2018  | [Improving Neural Fine-Grained Entity Typing with Knowledge Attention](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167) | Xin, et al.<br>THU | | 
+
 
 
 #### Level:

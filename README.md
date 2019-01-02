@@ -19,6 +19,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | ACL<br>2017   | [Leveraging knowledge bases in lstms for improving machine reading](https://doi.org/10.18653/v1/P17-1132)   | Yang, et al.<br>CMU | |
 | ACL<br>2017   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions](http://www.aclweb.org/anthology/D17-1086)  | Long, et al.<br>McGill University| |
 | ACL<br>2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/knreader.md) |
+| AAAI<br>2019  | [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf) | Deng, et al.<br> PKU | | 
 
 ## Dialog with Knowledge  
 
@@ -39,21 +40,4 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | ACL<br>2018   | [Probabilistic FastText for Multi-Sense Word Embeddings](http://aclweb.org/anthology/P18-1001)                      | Athiwaratkun, et al.<br>Cornell| |
 | ACL<br>2018   | [Cross-lingual Lexical Sememe Prediction](http://aclweb.org/anthology/D18-1033)                      | Qi, et al.<br>THU| |
 | AAAI<br>2018  | [Improving Neural Fine-Grained Entity Typing with Knowledge Attention](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167) | Xin, et al.<br>THU | | 
-| AAAI<br>2019  | [Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://arxiv.org/pdf/1812.02354.pdf) | Deng, et al.<br> PKU | | 
-
-
-
-
-#### Level:
-1. KMRC area.
-2. Relevant research area.
-3. Heuristic.
-4. Review.
-
-#### Field:
-- **KMRC:** **K**nowledge-based **M**achine **R**eading **C**omprehension;
-- **KDS:** **K**nowledge-based **D**ialogue **S**ystem;
-- **KIR:** **K**nowledge-based **I**nformation **R**etrieval;
-- **SC:** **S**ememe **C**omputation;
-- **NKLM:** **N**eural **K**nowledge **L**anguage **M**odel.
 

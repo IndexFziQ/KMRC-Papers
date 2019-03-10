@@ -19,6 +19,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | ACL<br>2017   | [Leveraging knowledge bases in lstms for improving machine reading](https://doi.org/10.18653/v1/P17-1132)   | Yang, et al.<br>CMU | |
 | ACL<br>2017   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions](http://www.aclweb.org/anthology/D17-1086)  | Long, et al.<br>McGill University| |
 | ACL<br>2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/knreader.md) |
+| AAAI<br>2019 | [Story Ending Generation with Incremental Encoding and Commonsense Knowledge](https://arxiv.org/abs/1808.10113) | Jian Guan, et al.<br>THU |  |
 
 ## Dialog with Knowledge  
 
@@ -28,6 +29,9 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | IJCAI18 | [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf) | Zhou, et al.<br>THU |  | 
 | AAAI<br>2018  | [A Knowledge-Grounded Neural Conversation Model](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/A_Knowledge_Grounded_Neural_Conversation_Model.pdf) | Ghazvininejad, et al.<br>Microsoft Research |  |
 | AAAI<br>2018   | [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) | Zhu, et al.<br>HKUST | |
+| 2019 | Learning to Select Knowledge for Response Generation in Dialog Systems | Baidu | |
+
+
 
 ## Representation with Knowledge 
 

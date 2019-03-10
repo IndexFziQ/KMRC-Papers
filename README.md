@@ -21,6 +21,8 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | ACL<br>2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/knreader.md) |
 | AAAI<br>2019 | [Story Ending Generation with Incremental Encoding and Commonsense Knowledge](https://arxiv.org/abs/1808.10113) | Jian Guan, et al.<br>THU |  |
 
+More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/kmrc-area.md)
+
 ## Dialog with Knowledge  
 
 | Conf.   | Title | Authors/Org. | Note |

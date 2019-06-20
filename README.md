@@ -28,8 +28,8 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :---  | :----------- | :---:|
-| NAACL<br>2019 |  [UHop-An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1031) | Zi-Yuan Chen |  |
-| NAACL<br>2019 |  [Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering](https://www.aclweb.org/anthology/N19-1301) | Kun Xu<br>Tencent AI Lab |  |
+| NAACL<br>2019 |  [UHop-An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1031) | Chen, et al. |  |
+| NAACL<br>2019 |  [Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering](https://www.aclweb.org/anthology/N19-1301) | Xu, et al.<br>Tencent AI Lab |  |
 
 ## Dialog with Knowledge
 
@@ -47,9 +47,9 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|
-| ICLR<br>2017  | [A Neural Knowledge Language Model](https://arxiv.org/pdf/1608.00318v1.pdf)                            | Ahn.et al.<br>Université de Montréal | |
-| ACL<br>2017   | [Improved Word Representation Learning with Sememes](http://aclweb.org/anthology/P17-1187)           | Niu, et al.<br>THU | |
-| ACL<br>2018   | [Cross-lingual Lexical Sememe Prediction](http://aclweb.org/anthology/D18-1033)                      | Qi, et al.<br>THU| |
+| ICLR<br>2017  | [A Neural Knowledge Language Model](https://arxiv.org/pdf/1608.00318v1.pdf)   | Ahn, et al.<br>Université de Montréal | |
+| ACL<br>2017   | [Improved Word Representation Learning with Sememes](http://aclweb.org/anthology/P17-1187)    | Niu, et al.<br>THU | |
+| ACL<br>2018   | [Cross-lingual Lexical Sememe Prediction](http://aclweb.org/anthology/D18-1033)    | Qi, et al.<br>THU| |
 | AAAI<br>2018  | [Improving Neural Fine-Grained Entity Typing with Knowledge Attention](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167) | Xin, et al.<br>THU | |
 
 

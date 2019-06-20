@@ -66,3 +66,5 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 - **SC:** **S**ememe **C**omputation;
 - **NKLM:** **N**eural **K**nowledge **L**anguage **M**odel.
 
+## License
+MIT License

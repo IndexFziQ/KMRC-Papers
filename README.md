@@ -36,7 +36,7 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|
 | ACL<br>2017   | [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](http://aclweb.org/anthology/P17-1162) | He, et al.<br>Stanford |  |
-| IJCAI18 | [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf) | Zhou, et al.<br>THU |  |
+| IJCAI<br>2018 | [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf) | Zhou, et al.<br>THU |  |
 | AAAI<br>2018  | [A Knowledge-Grounded Neural Conversation Model](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/A_Knowledge_Grounded_Neural_Conversation_Model.pdf) | Ghazvininejad, et al.<br>Microsoft Research |  |
 | AAAI<br>2018   | [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) | Zhu, et al.<br>HKUST | |
 | Arxiv<br>2019 | [Learning to Select Knowledge for Response Generation in Dialog Systems](https://arxiv.org/pdf/1902.04911.pdf) | Lian, et al.<br>Baidu | |

@@ -19,8 +19,7 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | :-----: | :--- | :----------- | :---:|
 | ACL<br>2017   | [Leveraging knowledge bases in lstms for improving machine reading](https://doi.org/10.18653/v1/P17-1132)   | Yang, et al.<br>CMU | |
 | ACL<br>2017   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions](http://www.aclweb.org/anthology/D17-1086)  | Long, et al.<br>McGill University| |
-| EMNLP<br>2017   | [Reasoning with Heterogeneous Knowledge
-for Commonsense Machine Comprehension](https://www.aclweb.org/anthology/D17-1216)   | Lin, et al.<br>IS,CAS | |
+| EMNLP<br>2017   | [Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension](https://www.aclweb.org/anthology/D17-1216)   | Lin, et al.<br>IS,CAS | |
 | ACL<br>2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/knreader.md) |
 | AAAI<br>2019 | [Story Ending Generation with Incremental Encoding and Commonsense Knowledge](https://arxiv.org/abs/1808.10113) | Jian Guan, et al.<br>THU |  |
 | AAAI<br>2019 | [Knowledge Based Machine Reading Comprehension](https://arxiv.org/pdf/1809.04267.pdf) | Yibo Sun, et al.<br>MSRA |  |
@@ -35,8 +34,7 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | :-----: | :---  | :----------- | :---:|
 | NAACL<br>2019 |  [UHop-An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1031) | Chen, et al. |  |
 | NAACL<br>2019 |  [Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering](https://www.aclweb.org/anthology/N19-1301) | Xu, et al.<br>Tencent AI Lab |  |
-| ACL<br>2019 |  [Improving Question Answering over Incomplete KBs
-with Knowledge-Aware Reader](https://arxiv.org/pdf/1905.07098.pdf) | Xiong, et al.<br>UCSB&IBM |  |
+| ACL<br>2019 |  [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/pdf/1905.07098.pdf) | Xiong, et al.<br>UCSB&IBM |  |
 
 ## Dialog with Knowledge
 

@@ -5,7 +5,7 @@ A list of recent papers regarding knowledge-based machine reading comprehension.
 Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for Information Security Technologies, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
 -------
-There have been many works on incorporate knowledge into process natural language. Many NLP downstream tasks are designed to test whether integrating external knowledge into semantic computing could improve machine's ability of semantic understanding. Besides, what knowledge is needed for the specific task? There is a long way to go.
+There have been many works on incorporating knowledge into process natural language. Many NLP downstream tasks are designed to test whether integrating external knowledge into semantic computing could improve a machine's ability of semantic understanding. Besides, what knowledge is needed for the specific task? There is a long way to go.
 
 ## NLP Downstream Tasks
 
@@ -29,7 +29,7 @@ There have been many works on incorporate knowledge into process natural languag
 | ACL<br>2019 | [Careful Selection of Knowledge to solve Open Book Question Answering](http://www.public.asu.edu/~cbaral/papers/2019acl-obqa.pdf) | Banerjee, et al.<br>ASU |  |
 | ACL<br>2019 | [Explicit Utilization of General Knowledge in Machine Reading Comprehension](https://arxiv.org/abs/1809.03449?context=cs.CL) | Wang, et al.<br>[YUC](http://www.yorku.ca/index.html) |  |
 
-More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/kmrc-area.md) which focuses on KMRC.
+More details refer to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/kmrc-area.md) which focuses on KMRC.
 
 ### QA with Knowledge
 

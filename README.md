@@ -19,9 +19,13 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | :-----: | :--- | :----------- | :---:|
 | ACL<br>2017   | [Leveraging knowledge bases in lstms for improving machine reading](https://doi.org/10.18653/v1/P17-1132)   | Yang, et al.<br>CMU | |
 | ACL<br>2017   | [World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions](http://www.aclweb.org/anthology/D17-1086)  | Long, et al.<br>McGill University| |
+| EMNLP<br>2017   | [Reasoning with Heterogeneous Knowledge
+for Commonsense Machine Comprehension](https://www.aclweb.org/anthology/D17-1216)   | Lin, et al.<br>IS,CAS | |
 | ACL<br>2018   | [Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076)  | Mihaylov, et al.<br>Heidelberg University   | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/knreader.md) |
 | AAAI<br>2019 | [Story Ending Generation with Incremental Encoding and Commonsense Knowledge](https://arxiv.org/abs/1808.10113) | Jian Guan, et al.<br>THU |  |
 | AAAI<br>2019 | [Knowledge Based Machine Reading Comprehension](https://arxiv.org/pdf/1809.04267.pdf) | Yibo Sun, et al.<br>MSRA |  |
+| ACL<br>2019 | [Careful Selection of Knowledge to solve Open Book Question Answering](http://www.public.asu.edu/~cbaral/papers/2019acl-obqa.pdf) | Banerjee, et al.<br>ASU |  |
+| ACL<br>2019 | [Explicit Utilization of General Knowledge in Machine Reading Comprehension](https://arxiv.org/abs/1809.03449?context=cs.CL) | Wang, et al.<br>[YUC](http://www.yorku.ca/index.html) |  |
 
 More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/kmrc-area.md).
 
@@ -31,6 +35,8 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | :-----: | :---  | :----------- | :---:|
 | NAACL<br>2019 |  [UHop-An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering](https://www.aclweb.org/anthology/N19-1031) | Chen, et al. |  |
 | NAACL<br>2019 |  [Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering](https://www.aclweb.org/anthology/N19-1301) | Xu, et al.<br>Tencent AI Lab |  |
+| ACL<br>2019 |  [Improving Question Answering over Incomplete KBs
+with Knowledge-Aware Reader](https://arxiv.org/pdf/1905.07098.pdf) | Xiong, et al.<br>UCSB&IBM |  |
 
 ## Dialog with Knowledge
 
@@ -52,6 +58,8 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | ACL<br>2017   | [Improved Word Representation Learning with Sememes](http://aclweb.org/anthology/P17-1187)    | Niu, et al.<br>THU | |
 | ACL<br>2018   | [Cross-lingual Lexical Sememe Prediction](http://aclweb.org/anthology/D18-1033)    | Qi, et al.<br>THU| |
 | AAAI<br>2018  | [Improving Neural Fine-Grained Entity Typing with Knowledge Attention](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167) | Xin, et al.<br>THU | |
+| ACL<br>2019  | [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129) | Zhang, et al.<br>THU | |
+| ACL<br>2019  | [ERNIE: Enhanced Representation through Knowledge Integration](https://arxiv.org/abs/1904.09223) | Sun, et al.<br>Baidu | |
 
 
 #### Level:

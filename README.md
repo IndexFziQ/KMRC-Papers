@@ -71,7 +71,9 @@ More details refer to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/m
 4. Review.
 
 ### Field:
+- **KNLI:** **K**nowledge-based **N**atural **L**anguage **I**nference;
 - **KMRC:** **K**nowledge-based **M**achine **R**eading **C**omprehension;
+- **KQA:** **K**nowledge-based **Q**estion **A**nswering;
 - **KDS:** **K**nowledge-based **D**ialogue **S**ystem;
 - **KIR:** **K**nowledge-based **I**nformation **R**etrieval;
 - **SC:** **S**ememe **C**omputation;

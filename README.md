@@ -5,15 +5,18 @@ A list of recent papers regarding knowledge-based machine reading comprehension.
 Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for Information Security Technologies, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
 -------
+There have been many works on incorporate knowledge into process natural language. Many NLP downstream tasks are designed to test whether integrating external knowledge into semantic computing could improve machine's ability of semantic understanding. Besides, what knowledge is needed for the specific task? There is a long way to go.
 
-## NLI with Knowledge
+## NLP Downstream Tasks
+
+### NLI with Knowledge
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :---  | :----------- | :---:|
-| ACL<br>2018 | [Neural Natural Language Inference Models Enhanced with External Knowledge](http://www.aclweb.org/anthology/P18-1224) | Qian Chen | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/kim.md) |
+| ACL<br>2018 | [Neural Natural Language Inference Models Enhanced with External Knowledge](http://www.aclweb.org/anthology/P18-1224) | Chen, et al.<br>UCTS | [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/note/kim.md) |
 
 
-## MRC with Knowledge
+### MRC with Knowledge
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|
@@ -26,9 +29,9 @@ Contributed by Luxi Xing and Yuqiang Xie, National Engineering Laboratory for In
 | ACL<br>2019 | [Careful Selection of Knowledge to solve Open Book Question Answering](http://www.public.asu.edu/~cbaral/papers/2019acl-obqa.pdf) | Banerjee, et al.<br>ASU |  |
 | ACL<br>2019 | [Explicit Utilization of General Knowledge in Machine Reading Comprehension](https://arxiv.org/abs/1809.03449?context=cs.CL) | Wang, et al.<br>[YUC](http://www.yorku.ca/index.html) |  |
 
-More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/kmrc-area.md).
+More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/master/kmrc-area.md) which focuses on KMRC.
 
-## QA with Knowledge
+### QA with Knowledge
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :---  | :----------- | :---:|
@@ -36,7 +39,7 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | NAACL<br>2019 |  [Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering](https://www.aclweb.org/anthology/N19-1301) | Xu, et al.<br>Tencent AI Lab |  |
 | ACL<br>2019 |  [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/pdf/1905.07098.pdf) | Xiong, et al.<br>UCSB&IBM |  |
 
-## Dialog with Knowledge
+### Dialog with Knowledge
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|
@@ -48,7 +51,7 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | NAACL<br>2019 | [Disentangling Language and Knowledge in Task-Oriented Dialogs](https://www.aclweb.org/anthology/N19-1126) | Raghu, et al.<br>IBM Research | |
 
 
-## Representation with Knowledge 
+### Representation with Knowledge 
 
 | Conf.   | Title | Authors/Org. | Note |
 | :-----: | :--- | :----------- | :---:|
@@ -59,14 +62,15 @@ More details refers to this [link](https://github.com/XingLuxi/KMRC-Papers/blob/
 | ACL<br>2019  | [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129) | Zhang, et al.<br>THU | |
 | ACL<br>2019  | [ERNIE: Enhanced Representation through Knowledge Integration](https://arxiv.org/abs/1904.09223) | Sun, et al.<br>Baidu | |
 
+## Taxonomy
 
-#### Level:
+### Level:
 1. KMRC area.
 2. Relevant research area.
 3. Heuristic.
 4. Review.
 
-#### Field:
+### Field:
 - **KMRC:** **K**nowledge-based **M**achine **R**eading **C**omprehension;
 - **KDS:** **K**nowledge-based **D**ialogue **S**ystem;
 - **KIR:** **K**nowledge-based **I**nformation **R**etrieval;

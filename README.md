@@ -21,7 +21,6 @@ Update on **Oct. 23, 2019**.
 5. [Generation Tasks](#generation-tasks)
 6. [Datasets](#benchmark-datasets)
 
-Note: papers about KBQA will be not included in this list.
 
 ## [Survey Papers](#content)
 
@@ -40,197 +39,52 @@ Note: papers about KBQA will be not included in this list.
 
 ## [Cloze Style Tasks](#content)
 
-1. **World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions**. EMNLP,2017.
-    
-    Authors: *Teng Long, Emmanuel Bengio, Ryan Lowe Jackie Chi Kit Cheung, Doina Precup*
-    
-    Links: [paper](https://www.aclweb.org/anthology/D17-1086)
-    
-    Tasks: Rare Entity Prediction;
-    
-1. **Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension**. ACL,2017.
-    
-    Authors: *Hongyu Lin, Le Sun, Xianpei Han*
-    
-    Links: [paper](http://aclweb.org/anthology/D17-1216)
-    
-    Tasks: SCT;
+| Title | Publish | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+| Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension | ACL<br>2017 | SCT | [paper](http://aclweb.org/anthology/D17-1216) |
+| World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions | EMNLP<br>2017 | Rare Entity Prediction | [paper](https://www.aclweb.org/anthology/D17-1086) |
+| Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge | ACL<br>2018 | Common Nouns | [paper](http://aclweb.org/anthology/P18-1076) <br> [note](http://xingluxi.github.io/2019/01/09/paper-knreader/) |
+| A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task | COLING<br>2018 | SCT | [paper](http://www.aclweb.org/anthology/C18-1149) |
+| Incorporating Structured Commonsense Knowledge in Story Completion | AAAI<br>2018 | SCT | [paper](https://arxiv.org/abs/1811.00625) |
+| Story Ending Prediction by Transferable BERT | IJCAI<br>2019 | SCT | [paper](https://arxiv.org/abs/1905.07504) |
 
-1. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge**. ACL,2018. 
-    
-    Authors: *Todor Mihaylov, Anette Frank*
-    
-    Links: [paper](http://aclweb.org/anthology/P18-1076) / code / [note](http://xingluxi.github.io/2019/01/09/paper-knreader/)
-    
-    Tasks: Common Nouns;
-    
-1. **A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task**. COLING,2018.
-    
-    Authors: *Qian Li, Ziwei Li, Jin-Mao Wei, Yanhui Gu, Adam Jatowt, Zhenglu Yang*
-    
-    Links: [paper](http://www.aclweb.org/anthology/C18-1149)
-    
-    Tasks: SCT;
-    
-1. **Incorporating Structured Commonsense Knowledge in Story Completion**. AAAI,2018.
-    
-    Authors: *Jiaao Chen, Jianshu Chen, Zhou Yu*
-    
-    Links: [paper](https://arxiv.org/abs/1811.00625)
-    
-    Tasks: SCT;
-
-2. **Story Ending Prediction by Transferable BERT**. IJCAI,2019.
-    
-    Authors: *Zhongyang Li, Xiao Ding, Ting Liu*
-    
-    Links: [paper](https://arxiv.org/abs/1905.07504)
-    
-    Tasks: SCT;
 
 
 ## [Span Extraction Tasks](#content)
 
-1. **Dynamic Integration of Background Knowledge in Neural NLU Systems**. arxiv,2018.
-    
-    Authors: *Dirk Weissenborn, Tomas Kocisky, Chris Dyer*
-    
-    Links: [paper](https://arxiv.org/pdf/1706.02596.pdf)
-    
-    Tasks: SQuAD; TriviaQA;
+| Title | Publish | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+| Dynamic Integration of Background Knowledge in Neural NLU Systems | 2018 | SQuAD/<br>TriviaQA | [paper](https://arxiv.org/pdf/1706.02596.pdf)<br>[note](http://xingluxi.github.io/2019/03/06/paper-2018-refinewordemb/) |
+| Explicit Utilization of General Knowledge in Machine Reading Comprehension | ACL<br>2019 | SQuAD | [paper](https://www.aclweb.org/anthology/P19-1219) <br> [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/) |
+| Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | ACL<br>2019 | SQuAD/<br>ReCoRD | [paper](https://www.aclweb.org/anthology/P19-1226/) <br> [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/) |
 
-1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension**. ACL,2019.
-    
-    Authors: *Chao Wang, Hui Jiang*
-    
-    Links: [paper](https://www.aclweb.org/anthology/P19-1219) / [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/)
-    
-    Tasks: SQuAD;
-
-1. **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**. ACL,2019.
-    
-    Authors: *An Yang, Quan Wang, Jing Liu, Kai Liu, Yajuan Lyu, Hua Wu, Qiaoqiao She, Sujian Li*
-    
-    Links: [paper](https://www.aclweb.org/anthology/P19-1226/) / [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/)
-    
-    Tasks: SQuAD; ReCoRD;
 
 ## [Multiple Choice Tasks](#content)
 
-1. **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**. SemEval,2018.
-    
-    Author: *Liang Wang, Meng Sun, Wei Zhao, Kewei Shen, Jingming Liu*
-    
-    Links: [paper](https://www.aclweb.org/anthology/S18-1120/) / [code](https://github.com/intfloat/commonsense-rc)
-    
-    Tasks: SemEval-2018 Task 11;
+| Title | Publish | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+| Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension | SemEval<br>2018 | SemEval-2018 Task 11 | [paper](https://www.aclweb.org/anthology/S18-1120/) <br> [code](https://github.com/intfloat/commonsense-rc) |
+| Improving Question Answering by Commonsense-Based Pre-Training | AAAI<br>2019 | ARC/<br>OpenBookQA/<br>SemEval-2018 Task 11 | [paper](https://arxiv.org/abs/1809.03568) |
+| Improving Machine Reading Comprehension with General Reading Strategies | NAACL<br>2019 | ARC/ OpenBookQA/ MCTest/<br>SemEval-2018 Task 11/ SCT/ MultiRC | [paper](https://www.aclweb.org/anthology/N19-1270/) <br> [code](https://github.com/nlpdata/strategy/) |
+| Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human Needs | NAACL<br>2019 | story commonsense | [paper](https://www.aclweb.org/anthology/papers/N/N19/N19-1368/) <br> [code](https://github.com/debjitpaul/Multi-Hop-Knowledge-Paths-Human-Needs) |
+| Incorporating Relation Knowledge into Commonsense Reading Comprehension with Multi-task Learning | CIKM<br>2019 | SemEval-2018 Task 11 / SCT | [paper](https://arxiv.org/abs/1908.04530) |
+| Explain Yourself! Leveraging Language Models for Commonsense Reasoning | ACL<br>2019 | CommonsenseQA | [paper](https://www.aclweb.org/anthology/P19-1487.pdf) <br> [code](https://github.com/salesforce/cos-e) <br> [note](http://xingluxi.github.io/2019/07/10/paper-acl2019-cos-e/) |
+| Careful Selection of Knowledge to solve Open Book Question Answering | ACL<br>2019 | OpenBookQA | [paper](https://arxiv.org/abs/1907.10738) |
+| Improving Question Answering with External Knowledge | EMNLP<br>MRQA<br>2019 | ARC/<br>OpenBookQA | [paper](https://arxiv.org/pdf/1902.00993.pdf) <br> [note](http://xingluxi.github.io/2019/08/26/paper-2019-edl-md/) |
+| KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning | EMNLP<br>2019 | CommonsenseQA | [paper](https://arxiv.org/abs/1909.02151) <br> [code](https://github.com/INK-USC/KagNet) <br> [note](https://zhuanlan.zhihu.com/p/81917730) |
+| What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering | EMNLP<br>2019 | OpenBookQA | [paper](https://arxiv.org/abs/1909.09253) <br> [note](https://zhuanlan.zhihu.com/p/85852386) |
+| BIG MOOD: Relating Transformers to Explicit Commonsense Knowledge | EMNLP<br>COIN<br>2019 | MCScripts v2 | [paper](http://arxiv.org/abs/1910.07713) |
 
-2. **Improving Question Answering by Commonsense-Based Pre-Training**. AAAI,2019.
-    
-    Authors: *Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin*
-    
-    Links: [paper](https://arxiv.org/abs/1809.03568)
-    
-    Tasks: ARC; OpenBookQA;  SemEval-2018 Task 11;
-    
-1. **Improving Machine Reading Comprehension with General Reading Strategies**. NAACL,2019.
-    
-    Authors: *Kai Sun, Dian Yu, Dong Yu, Claire Cardie*
-    
-    Links: [paper](https://www.aclweb.org/anthology/N19-1270/) / [code](https://github.com/nlpdata/strategy/)
-    
-    Tasks: ARC; OpenBookQA; MCTest; SemEval-2018 Task 11; SCT; MultiRC;
-    
-1. **Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human Needs**. NAACL,2019.
-    
-    Authors: *Debjit Paul, Anette Frank*
-    
-    Links: [paper](https://www.aclweb.org/anthology/papers/N/N19/N19-1368/) / [code](https://github.com/debjitpaul/Multi-Hop-Knowledge-Paths-Human-Needs)
-    
-    Tasks: story commonsense;
-    
-1. **Incorporating Relation Knowledge into Commonsense Reading Comprehension with Multi-task Learning**. CIKM,2019.
-    
-    Author: *Jiangnan Xia, Chen Wu, Ming Yan*
-    
-    Links: [paper](https://arxiv.org/abs/1908.04530)
-    
-    Tasks: SemEval-2018 Task 11 / SCT;
-    
-1. **Explain Yourself! Leveraging Language Models for Commonsense Reasoning**. ACL,2019.
-    
-    Authors: *Nazneen Fatema Rajani, Bryan McCann, Caiming Xiong, Richard Socher*
-    
-    Links: [paper](https://www.aclweb.org/anthology/P19-1487.pdf) / [code](https://github.com/salesforce/cos-e) / [note](http://xingluxi.github.io/2019/07/10/paper-acl2019-cos-e/)
-    
-    Tasks: CommonsenseQA;
-    
-1. **Careful Selection of Knowledge to solve Open Book Question Answering**. ACL,2019.
-    
-    Authors: *Pratyay Banerjee, Kuntal Kumar Pal, Arindam Mitra, Chitta Baral*
-    
-    Links: [paper](https://arxiv.org/abs/1907.10738)
-    
-    Tasks: OpenBookQA;
-    
-1. **Improving Question Answering with External Knowledge**. EMNLP-MRQA,2019.
-    
-    Authors: *Xiaoman Pan, Kai Sun, Dian Yu, Jianshu Chen, Heng Ji, Claire Cardie, Dong Yu*
-    
-    Links: [paper](https://arxiv.org/pdf/1902.00993.pdf) / [note](http://xingluxi.github.io/2019/08/26/paper-2019-edl-md/)
-    
-    Tasks: ARC; OpenBookQA;
-    
-1. **KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning**. EMNLP,2019.
-    
-    Authors: *Bill Yuchen Lin, Xinyue Chen, Jamin Chen, Xiang Ren*
-    
-    Links: [paper](https://arxiv.org/abs/1909.02151) / [code](https://github.com/INK-USC/KagNet) / [note](https://zhuanlan.zhihu.com/p/81917730)
-    
-    Tasks: CommonsenseQA;
-    
-1. **What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering**. EMNLP,2019.
-    
-    Authors: *Tushar Khot, Ashish Sabharwal, Peter Clark*
-    
-    Links: [paper](https://arxiv.org/abs/1909.09253)/ [note](https://zhuanlan.zhihu.com/p/85852386)
-    
-    Tasks: OpenBookQA;
-    
-1. **BIG MOOD: Relating Transformers to Explicit Commonsense Knowledge**. EMNLP-COIN,2019.
-    
-    Authors: *Jeff Da*
-    
-    Links: [paper](http://arxiv.org/abs/1910.07713)
-    
-    Tasks: MCScripts-v2;
+
 
 ## [Generation Tasks](#content)
 Also known as **Free-form Answer Tasks**
 
-1. **Commonsense for Generative Multi-Hop Question Answering Tasks**. EMNLP,2018.
-    
-    Authors: *Lisa Bauer, Yicheng Wang, Mohit Bansal*
-    
-    Links: [paper](https://www.aclweb.org/anthology/D18-1454/) / [code](https://github.com/yicheng-w/CommonSenseMultiHopQA) / [note](http://xingluxi.github.io/2019/02/21/paper-emnlp2018-mhpgm/)
-    
-    Tasks: NarrativeQA; QAngaroo-WikiHop;
-    
-1. **COMET: Commonsense Transformers for Automatic Knowledge Graph Construction**. ACL,2019.
-    
-    Authors: *Antoine Bosselut, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Celikyilmaz, Yejin Choi*
-    
-    Links: [paper](https://arxiv.org/abs/1906.05317) / [code](https://github.com/atcbosselut/comet-commonsense) / [note](https://indexfziq.github.io/2019/07/03/COMET/)
-    
-    Tasks: Atomic;
-    
-1. **Incorporating External Knowledge into Machine Reading for Generative Question Answering**. EMNLP,2019.
-    
-    Authors: *Bin Bi, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, Chenliang Li*
-    
-    Links: [paper](http://arxiv.org/abs/1909.02745) / [note](http://xingluxi.github.io/2019/10/13/paper-emnlp2019-keag/)
-    
-    Tasks: MS MARCO;
+| Title | Publish | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+| Commonsense for Generative Multi-Hop Question Answering Tasks | EMNLP<br>2018 | NarrativeQA/<br>WikiHop | [paper](https://www.aclweb.org/anthology/D18-1454/) <br> [code](https://github.com/yicheng-w/CommonSenseMultiHopQA) <br> [note](http://xingluxi.github.io/2019/02/21/paper-emnlp2018-mhpgm/) |
+| COMET: Commonsense Transformers for Automatic Knowledge Graph Construction | ACL<br>2019 | Atomic | [paper](https://arxiv.org/abs/1906.05317)<br>[code](https://github.com/atcbosselut/comet-commonsense)<br>[note](https://indexfziq.github.io/2019/07/03/COMET/) |
+| Incorporating External Knowledge into Machine Reading for Generative Question Answering | EMNLP<br>2019 | MS MARCO | [paper](http://arxiv.org/abs/1909.02745)<br>[note](http://xingluxi.github.io/2019/10/13/paper-emnlp2019-keag/) |
 
 
 ## [Benchmark Datasets](#content)

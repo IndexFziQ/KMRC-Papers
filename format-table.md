@@ -65,7 +65,7 @@ Update on **Oct. 23, 2019**.
 | :---- | :---: | :---- | :---:|
 | Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension | SemEval<br>2018 | SemEval-2018 Task 11 | [paper](https://www.aclweb.org/anthology/S18-1120/) <br> [code](https://github.com/intfloat/commonsense-rc) |
 | Improving Question Answering by Commonsense-Based Pre-Training | AAAI<br>2019 | ARC/<br>OpenBookQA/<br>SemEval-2018 Task 11 | [paper](https://arxiv.org/abs/1809.03568) |
-| Improving Machine Reading Comprehension with General Reading Strategies | NAACL<br>2019 | ARC/ OpenBookQA/ MCTest/ SemEval-2018 Task 11/ SCT/ MultiRC | [paper](https://www.aclweb.org/anthology/N19-1270/) <br> [code](https://github.com/nlpdata/strategy/) |
+| Improving Machine Reading Comprehension with General Reading Strategies | NAACL<br>2019 | ARC/ OpenBookQA/ MCTest/<br>SemEval-2018 Task 11/ SCT/ MultiRC | [paper](https://www.aclweb.org/anthology/N19-1270/) <br> [code](https://github.com/nlpdata/strategy/) |
 | Ranking and Selecting Multi-Hop Knowledge Paths to Better Predict Human Needs | NAACL<br>2019 | story commonsense | [paper](https://www.aclweb.org/anthology/papers/N/N19/N19-1368/) <br> [code](https://github.com/debjitpaul/Multi-Hop-Knowledge-Paths-Human-Needs) |
 | Incorporating Relation Knowledge into Commonsense Reading Comprehension with Multi-task Learning | CIKM<br>2019 | SemEval-2018 Task 11 / SCT | [paper](https://arxiv.org/abs/1908.04530) |
 | Explain Yourself! Leveraging Language Models for Commonsense Reasoning | ACL<br>2019 | CommonsenseQA | [paper](https://www.aclweb.org/anthology/P19-1487.pdf) <br> [code](https://github.com/salesforce/cos-e) <br> [note](http://xingluxi.github.io/2019/07/10/paper-acl2019-cos-e/) |

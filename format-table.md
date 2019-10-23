@@ -39,11 +39,11 @@ Update on **Oct. 23, 2019**.
 
 ## [Cloze Style Tasks](#content)
 
-| Title | Conf. | Tasks | Links |
+| Title | Publish | Tasks | Links |
 | :---- | :---: | :---- | :---:|
 | Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension | ACL<br>2017 | SCT | [paper](http://aclweb.org/anthology/D17-1216) |
 | World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions | EMNLP<br>2017 | Rare Entity Prediction; | [paper](https://www.aclweb.org/anthology/D17-1086) |
-| Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge | ACL<br>2018 | Common Nouns; | [paper](http://aclweb.org/anthology/P18-1076) / code / [note](http://xingluxi.github.io/2019/01/09/paper-knreader/) |
+| Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge | ACL<br>2018 | Common Nouns; | [paper](http://aclweb.org/anthology/P18-1076) <br> [note](http://xingluxi.github.io/2019/01/09/paper-knreader/) |
 | A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task | COLING<br>2018 | SCT | [paper](http://www.aclweb.org/anthology/C18-1149) |
 | Incorporating Structured Commonsense Knowledge in Story Completion | AAAI<br>2018 | SCT | [paper](https://arxiv.org/abs/1811.00625) |
 | Story Ending Prediction by Transferable BERT | IJCAI<br>2019 | SCT; | [paper](https://arxiv.org/abs/1905.07504) |
@@ -155,6 +155,11 @@ Update on **Oct. 23, 2019**.
 
 ## [Generation Tasks](#content)
 Also known as **Free-form Answer Tasks**
+
+| Title | Conf. | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+|  |  |  |  |
+
 
 1. **Commonsense for Generative Multi-Hop Question Answering Tasks**. EMNLP,2018.
     

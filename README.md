@@ -373,7 +373,7 @@ Also known as **Free-form Answer Tasks**
     
     Authors: *Bin Bi, Chen Wu, Ming Yan, Wei Wang, Jiangnan Xia, Chenliang Li*
     
-    Links: [paper](http://arxiv.org/abs/1909.02745) / code / [note](http://xingluxi.github.io/2019/10/13/paper-emnlp2019-keag/)
+    Links: [paper](http://arxiv.org/abs/1909.02745) / [note](http://xingluxi.github.io/2019/10/13/paper-emnlp2019-keag/)
     
     Tasks: MS MARCO;
 

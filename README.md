@@ -1,22 +1,28 @@
 # Papers on Knowledge-based Machine Reading Comprehension.
 
-A list of recent papers about Knowledge-based Machine Reading Comprehension (KMRC).
+A list of recent papers about **Knowledge-based Machine Reading Comprehension** (**KMRC**).
 
-Contributed by [Luxi Xing](https://github.com/XingLuxi) and [Yuqiang Xie](https://github.com/IndexFziQ)
+Contributed by [Luxi Xing](https://github.com/XingLuxi) and [Yuqiang Xie](https://github.com/IndexFziQ).
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
 Update on **Oct. 23, 2019**.
+
 (the current version only contains the works published on the conferences or journals, we will continuously update this list.)
 
 -------
 ## [Content](#content)
 
 1.[Survey](#survey-papers)
+
 2.[Datasets](#benchmark-datasets)
+
 3.[Cloze Style Tasks](#cloze-style-tasks)
+
 4.[Span Extraction Tasks](#span-extraction-tasks)
+
 5.[Multiple Choice Tasks](#multiple-choice-tasks)
+
 6.[Generation Tasks](#generation-tasks)
 
 Note: papers about KBQA will be not included in this list.
@@ -24,14 +30,19 @@ Note: papers about KBQA will be not included in this list.
 ## [Survey Papers](#content)
 
 1. **Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches**. 2019.
+    
     Authors: *Shane Storks, Qianzi Gao, Joyce Y. Chai*
+    
     Links: [paper](https://arxiv.org/abs/1904.01172) / [note](https://zhuanlan.zhihu.com/p/80883568)
 
 ## [Benchmark Datasets](#content)
 
 1. [**COPA**] Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. AAAI,2011.
+    
     Authors: *Melissa Roemmele, Cosmin Adrian Bejan, Andrew S. Gordon*
+    
     Links: [paper](http://ict.usc.edu/~gordon/publications/AAAI-SPRING11A.PDF) / [data](http://people.ict.usc.edu/~gordon/copa.html)
+    
     Type: Multiple-Choice;
     
 1. [**WSC**] The Winograd Schema Challenge. AAAI,2011

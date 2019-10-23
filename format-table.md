@@ -43,72 +43,27 @@ Update on **Oct. 23, 2019**.
 | :---- | :---: | :---- | :---:|
 | Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension | ACL<br>2017 | SCT | [paper](http://aclweb.org/anthology/D17-1216) |
 | World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions | EMNLP<br>2017 | Rare Entity Prediction; | [paper](https://www.aclweb.org/anthology/D17-1086) |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge | ACL<br>2018 | Common Nouns; | [paper](http://aclweb.org/anthology/P18-1076) / code / [note](http://xingluxi.github.io/2019/01/09/paper-knreader/) |
+| A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task | COLING<br>2018 | SCT | [paper](http://www.aclweb.org/anthology/C18-1149) |
+| Incorporating Structured Commonsense Knowledge in Story Completion | AAAI<br>2018 | SCT | [paper](https://arxiv.org/abs/1811.00625) |
+| Story Ending Prediction by Transferable BERT | IJCAI<br>2019 | SCT; | [paper](https://arxiv.org/abs/1905.07504) |
 
-
-1. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge**. ACL,2018. 
-    
-    Authors: *Todor Mihaylov, Anette Frank*
-    
-    Links: [paper](http://aclweb.org/anthology/P18-1076) / code / [note](http://xingluxi.github.io/2019/01/09/paper-knreader/)
-    
-    Tasks: Common Nouns;
-    
-1. **A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task**. COLING,2018.
-    
-    Authors: *Qian Li, Ziwei Li, Jin-Mao Wei, Yanhui Gu, Adam Jatowt, Zhenglu Yang*
-    
-    Links: [paper](http://www.aclweb.org/anthology/C18-1149)
-    
-    Tasks: SCT;
-    
-1. **Incorporating Structured Commonsense Knowledge in Story Completion**. AAAI,2018.
-    
-    Authors: *Jiaao Chen, Jianshu Chen, Zhou Yu*
-    
-    Links: [paper](https://arxiv.org/abs/1811.00625)
-    
-    Tasks: SCT;
-
-2. **Story Ending Prediction by Transferable BERT**. IJCAI,2019.
-    
-    Authors: *Zhongyang Li, Xiao Ding, Ting Liu*
-    
-    Links: [paper](https://arxiv.org/abs/1905.07504)
-    
-    Tasks: SCT;
 
 
 ## [Span Extraction Tasks](#content)
 
-1. **Dynamic Integration of Background Knowledge in Neural NLU Systems**. arxiv,2018.
-    
-    Authors: *Dirk Weissenborn, Tomas Kocisky, Chris Dyer*
-    
-    Links: [paper](https://arxiv.org/pdf/1706.02596.pdf)
-    
-    Tasks: SQuAD; TriviaQA;
+| Title | Conf. | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+| Dynamic Integration of Background Knowledge in Neural NLU Systems | 2018 | SQuAD;<br>TriviaQA; | [paper](https://arxiv.org/pdf/1706.02596.pdf)<br>[note](http://xingluxi.github.io/2019/03/06/paper-2018-refinewordemb/) |
+| Explicit Utilization of General Knowledge in Machine Reading Comprehension | ACL<br>2019 | SQuAD; | [paper](https://www.aclweb.org/anthology/P19-1219) <br> [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/) |
+| Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | ACL<br>2019 | SQuAD;<br>ReCoRD; | [paper](https://www.aclweb.org/anthology/P19-1226/) <br> [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/) |
 
-1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension**. ACL,2019.
-    
-    Authors: *Chao Wang, Hui Jiang*
-    
-    Links: [paper](https://www.aclweb.org/anthology/P19-1219) / [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/)
-    
-    Tasks: SQuAD;
-
-1. **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**. ACL,2019.
-    
-    Authors: *An Yang, Quan Wang, Jing Liu, Kai Liu, Yajuan Lyu, Hua Wu, Qiaoqiao She, Sujian Li*
-    
-    Links: [paper](https://www.aclweb.org/anthology/P19-1226/) / [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/)
-    
-    Tasks: SQuAD; ReCoRD;
 
 ## [Multiple Choice Tasks](#content)
+
+| Title | Conf. | Tasks | Links |
+| :---- | :---: | :---- | :---:|
+|  |  |  |  |
 
 1. **Yuanfudao at SemEval-2018 Task 11: Three-way Attention and Relational Knowledge for Commonsense Machine Comprehension**. SemEval,2018.
     

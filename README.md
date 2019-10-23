@@ -13,17 +13,17 @@ Update on **Oct. 23, 2019**.
 -------
 ## [Content](#content)
 
-1.[Survey](#survey-papers)
+1. [Survey](#survey-papers)
 
-2.[Datasets](#benchmark-datasets)
+2. [Datasets](#benchmark-datasets)
 
-3.[Cloze Style Tasks](#cloze-style-tasks)
+3. [Cloze Style Tasks](#cloze-style-tasks)
 
-4.[Span Extraction Tasks](#span-extraction-tasks)
+4. [Span Extraction Tasks](#span-extraction-tasks)
 
-5.[Multiple Choice Tasks](#multiple-choice-tasks)
+5. [Multiple Choice Tasks](#multiple-choice-tasks)
 
-6.[Generation Tasks](#generation-tasks)
+6. [Generation Tasks](#generation-tasks)
 
 Note: papers about KBQA will be not included in this list.
 
@@ -46,33 +46,51 @@ Note: papers about KBQA will be not included in this list.
     Type: Multiple-Choice;
     
 1. [**WSC**] The Winograd Schema Challenge. AAAI,2011
+    
     Authors: *Hector J. Levesque, Ernest Davis, Leora Morgenstern*
+    
     Links: [paper](https://www.aaai.org/ocs/index.php/KR/KR12/paper/download/4492/4924) /[data](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html)
+    
     Type: Multiple-Choice;
 
 2. [**ROCStories**; **SCT**] A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories. NAACL,2016.
+    
     Authors: *Nasrin Mostafazadeh, Nathanael Chambers, Xiaodong He, Devi Parikh, Dhruv Batra, Lucy Vanderwende, Pushmeet Kohli, James Allen*
+    
     Links: [paper](https://www.aclweb.org/anthology/N16-1098/) / [data](https://www.cs.rochester.edu/nlp/rocstories/)
+    
     Type: Cloze;
     
 1. [**NarrativeQA**] The NarrativeQA Reading Comprehension Challenge. TACL,2018.
+    
     Authors: *Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Hermann, Gábor Melis, Edward Grefenstette*
+    
     Links: [paper](https://arxiv.org/abs/1712.07040) / [data](https://github.com/deepmind/narrativeqa)
+    
     Type: Generation;
     
 1. [**SemEval-2018 Task 11**] MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge. LERC,2018.
+    
     Authors: *Simon Ostermann, Ashutosh Modi, Michael Roth, Stefan Thater, Manfred Pinkal*
+    
     Links: [paper](https://arxiv.org/abs/1803.05223) / [data](http://www.sfb1102.uni-saarland.de/?page_id=2582)
+    
     Type: Multiple-Choice;
     
 1. [**story-commonsense**] Modeling Naive Psychology of Characters in Simple Commonsense Stories. ACL,2018.
+    
     Authors: *Hannah Rashkin, Antoine Bosselut, Maarten Sap, Kevin Knight, Yejin Choi*
+    
     Links: [paper](https://www.aclweb.org/anthology/P18-1213/) / [data](http://uwnlp.github.io/storycommonsense)
+    
     Type: Multiple-Choice;
     
 1. **Event2Mind**: Commonsense Inference on Events, Intents, and Reactions. ACL,2018.
+    
     Authors: *Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith, Yejin Choi*
+    
     Links: [paper](https://www.aclweb.org/anthology/P18-1043/) / [data](https://uwnlp.github.io/event2mind/)
+    
     Types: Generation;
 
 1. **ATOMIC**: An Atlas of Machine Commonsense for If-Then Reasoning. AAAI,2019.

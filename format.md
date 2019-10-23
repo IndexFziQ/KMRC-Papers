@@ -25,7 +25,7 @@ Note: papers about KBQA will be not included in this list.
 
 ## [Survey Papers](#content)
 
-1. **Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches**. 2019. [paper](https://arxiv.org/abs/1904.01172) / [note](https://zhuanlan.zhihu.com/p/80883568)
+1. **Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches**. 2019. [[paper](https://arxiv.org/abs/1904.01172) / [note](https://zhuanlan.zhihu.com/p/80883568)]
     
     Authors: *Shane Storks, Qianzi Gao, Joyce Y. Chai*
     

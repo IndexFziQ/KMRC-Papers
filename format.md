@@ -239,13 +239,12 @@ Also known as **Free-form Answer Tasks**
     
     Authors: *Melissa Roemmele, Cosmin Adrian Bejan, Andrew S. Gordon*
     
-    Type: Multiple-Choice;
+    * Type: Multiple-Choice;
     
 1. [**WSC**] The Winograd Schema Challenge. AAAI,2011. [[paper](https://www.aaai.org/ocs/index.php/KR/KR12/paper/download/4492/4924) /[data](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html)]
     
     Authors: *Hector J. Levesque, Ernest Davis, Leora Morgenstern*
-    
-    Type: Multiple-Choice;
+    * Type: Multiple-Choice;
 
 2. [**ROCStories**; **SCT**] A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories. NAACL,2016. [[paper](https://www.aclweb.org/anthology/N16-1098/) / [data](https://www.cs.rochester.edu/nlp/rocstories/)]
     

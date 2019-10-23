@@ -29,7 +29,6 @@ Note: papers about KBQA will be not included in this list.
     
     Authors: *Shane Storks, Qianzi Gao, Joyce Y. Chai*
     
-    
 1. **Neural Machine Reading Comprehension: Methods and Trends**. 2019. [[paper](https://arxiv.org/abs/1907.01118)]
     
     Authors: *Shanshan Liu, Xin Zhang, Sheng Zhang, Hui Wang, Weiming Zhang*
@@ -41,11 +40,9 @@ Note: papers about KBQA will be not included in this list.
 
 ## [Benchmark Datasets](#content)
 
-1. [**COPA**] Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. AAAI,2011.
+1. [**COPA**] Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. AAAI,2011. [[paper](http://ict.usc.edu/~gordon/publications/AAAI-SPRING11A.PDF) / [data](http://people.ict.usc.edu/~gordon/copa.html)]
     
     Authors: *Melissa Roemmele, Cosmin Adrian Bejan, Andrew S. Gordon*
-    
-    Links: [paper](http://ict.usc.edu/~gordon/publications/AAAI-SPRING11A.PDF) / [data](http://people.ict.usc.edu/~gordon/copa.html)
     
     Type: Multiple-Choice;
     

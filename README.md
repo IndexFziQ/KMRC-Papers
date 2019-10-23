@@ -34,6 +34,16 @@ Note: papers about KBQA will be not included in this list.
     Authors: *Shane Storks, Qianzi Gao, Joyce Y. Chai*
     
     Links: [paper](https://arxiv.org/abs/1904.01172) / [note](https://zhuanlan.zhihu.com/p/80883568)
+    
+1. **Neural Machine Reading Comprehension: Methods and Trends**. 2019.
+    
+    Authors: *Shanshan Liu, Xin Zhang, Sheng Zhang, Hui Wang, Weiming Zhang*
+    
+1. **Machine Reading Comprehension: a Literature Review**. 2019.
+    
+    Authors: *Xin Zhang, An Yang, Sujian Li, Yizhong Wang*
+    
+    Links: [paper](https://arxiv.org/abs/1907.01686)
 
 ## [Benchmark Datasets](#content)
 

@@ -14,15 +14,10 @@ Update on **Oct. 23, 2019**.
 ## [Content](#content)
 
 1. [Survey](#survey-papers)
-
 2. [Datasets](#benchmark-datasets)
-
 3. [Cloze Style Tasks](#cloze-style-tasks)
-
 4. [Span Extraction Tasks](#span-extraction-tasks)
-
 5. [Multiple Choice Tasks](#multiple-choice-tasks)
-
 6. [Generation Tasks](#generation-tasks)
 
 Note: papers about KBQA will be not included in this list.

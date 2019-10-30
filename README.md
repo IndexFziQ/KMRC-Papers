@@ -74,7 +74,8 @@ Update on **Oct. 23, 2019**.
 | KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning | EMNLP<br>2019 | CommonsenseQA | [paper](https://arxiv.org/abs/1909.02151) <br> [code](https://github.com/INK-USC/KagNet) <br> [note](https://zhuanlan.zhihu.com/p/81917730) |
 | What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering | EMNLP<br>2019 | OpenBookQA | [paper](https://arxiv.org/abs/1909.09253) <br> [note](https://zhuanlan.zhihu.com/p/85852386) |
 | BIG MOOD: Relating Transformers to Explicit Commonsense Knowledge | EMNLP<br>COIN<br>2019 | MCScripts v2 | [paper](http://arxiv.org/abs/1910.07713) |
-
+| Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering| 2019 | ANLI/<br>SocialIQA | [paper](http://arxiv.org/abs/1909.08855)<br>[note](http://xingluxi.github.io/2019/09/26/paper-kn-mcqa-1909-08855/) |
+| Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering | 2019 | CSQA | [paper](http://arxiv.org/abs/1909.05311)<br>[note](http://xingluxi.github.io/2019/09/17/paper-csqa-1909-05311/) | 
 
 
 ## [Generation Tasks](#content)

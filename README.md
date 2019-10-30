@@ -6,7 +6,7 @@ Contributed by [Luxi Xing](https://github.com/XingLuxi) and [Yuqiang Xie](https:
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Oct. 23, 2019**.
+Update on **Oct. 30, 2019**.
 
 (the current version only contains the works published on the conferences or journals, we will continuously update this list.)
 

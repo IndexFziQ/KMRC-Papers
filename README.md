@@ -58,10 +58,10 @@ Update on **Mar. 4, 2020**.
 | Explicit Utilization of General Knowledge in Machine Reading Comprehension | ACL<br>2019 | SQuAD | [paper](https://www.aclweb.org/anthology/P19-1219) <br> [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/) |
 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | ACL<br>2019 | SQuAD/<br>ReCoRD | [paper](https://www.aclweb.org/anthology/P19-1226/) <br> [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/) |
 | Machine Reading Comprehension Using Structural Knowledge Graph-aware Network | EMNLP<br>2019<br>short | ReCoRD | [paper](Machine Reading Comprehension Using Structural Knowledge Graph-aware Network) |
-| + SG-Net: Syntax-Guided Machine Reading Comprehension | AAAI<br>2020 | SQuAD2.0<br>RACE | [paper](http://arxiv.org/abs/1908.05147) | 
-| + Semantics-aware BERT for Language Understanding | AAAI<br>2020 | SQuAD2.0 | [paper](http://arxiv.org/abs/1909.02209) |
+| `+` SG-Net: Syntax-Guided Machine Reading Comprehension | AAAI<br>2020 | SQuAD2.0<br>RACE | [paper](http://arxiv.org/abs/1908.05147) | 
+| `+` Semantics-aware BERT for Language Understanding | AAAI<br>2020 | SQuAD2.0 | [paper](http://arxiv.org/abs/1909.02209) |
 
-* `&` indicates works regarding injecting knowledge to improve performance on the datasets not included in this summary.
+* `+` indicates works regarding injecting knowledge to improve performance on the datasets not included in this summary.
 
 
 ## [Multiple Choice Tasks](#content)

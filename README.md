@@ -6,7 +6,7 @@ Contributed by [Luxi Xing](https://github.com/XingLuxi) and [Yuqiang Xie](https:
 
 Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. 
 
-Update on **Oct. 30, 2019**.
+Update on **Mar. 4, 2020**.
 
 (the current version only contains the works published on the conferences or journals, we will continuously update this list.)
 
@@ -57,6 +57,11 @@ Update on **Oct. 30, 2019**.
 | Dynamic Integration of Background Knowledge in Neural NLU Systems | 2018 | SQuAD/<br>TriviaQA | [paper](https://arxiv.org/pdf/1706.02596.pdf)<br>[note](http://xingluxi.github.io/2019/03/06/paper-2018-refinewordemb/) |
 | Explicit Utilization of General Knowledge in Machine Reading Comprehension | ACL<br>2019 | SQuAD | [paper](https://www.aclweb.org/anthology/P19-1219) <br> [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/) |
 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | ACL<br>2019 | SQuAD/<br>ReCoRD | [paper](https://www.aclweb.org/anthology/P19-1226/) <br> [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/) |
+| Machine Reading Comprehension Using Structural Knowledge Graph-aware Network | EMNLP<br>2019<br>short | ReCoRD | [paper](Machine Reading Comprehension Using Structural Knowledge Graph-aware Network) |
+| + SG-Net: Syntax-Guided Machine Reading Comprehension | AAAI<br>2020 | SQuAD2.0<br>RACE | [paper](http://arxiv.org/abs/1908.05147) | 
+| + Semantics-aware BERT for Language Understanding | AAAI<br>2020 | SQuAD2.0 | [paper](http://arxiv.org/abs/1909.02209) |
+
+* `&` indicates works regarding injecting knowledge to improve performance on the datasets not included in this summary.
 
 
 ## [Multiple Choice Tasks](#content)
@@ -74,8 +79,11 @@ Update on **Oct. 30, 2019**.
 | KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning | EMNLP<br>2019 | CommonsenseQA | [paper](https://arxiv.org/abs/1909.02151) <br> [code](https://github.com/INK-USC/KagNet) <br> [note](https://zhuanlan.zhihu.com/p/81917730) |
 | What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering | EMNLP<br>2019 | OpenBookQA | [paper](https://arxiv.org/abs/1909.09253) <br> [note](https://zhuanlan.zhihu.com/p/85852386) |
 | BIG MOOD: Relating Transformers to Explicit Commonsense Knowledge | EMNLP<br>COIN<br>2019 | MCScripts v2 | [paper](http://arxiv.org/abs/1910.07713) |
+| Align, Mask and Select: A Simple Method for Incorporating Commonsense Knowledge into Language Representation Models | 2019 | CSQA<br>WSC | [paper](https://arxiv.org/abs/1908.06725v1) |
+| Abductive Reasoning as Self-Supervision for Common Sense Question Answering | 2019 | Swag<br>HellaSwag | [paper](http://arxiv.org/abs/1909.03099) |
 | Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering| 2019 | ANLI/<br>SocialIQA | [paper](http://arxiv.org/abs/1909.08855)<br>[note](http://xingluxi.github.io/2019/09/26/paper-kn-mcqa-1909-08855/) |
-| Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering | 2019 | CSQA | [paper](http://arxiv.org/abs/1909.05311)<br>[note](http://xingluxi.github.io/2019/09/17/paper-csqa-1909-05311/) | 
+| Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering | AAAI<br>2020 | CSQA | [paper](http://arxiv.org/abs/1909.05311)<br>[note](http://xingluxi.github.io/2019/09/17/paper-csqa-1909-05311/) | 
+| K-A DAPTER: Infusing Knowledge into Pre-Trained Models with Adapters | 2020 | CosmosQA | [paper](http://arxiv.org/abs/2002.01808)<br>[note](https://zhuanlan.zhihu.com/p/106107747) |
 
 
 ## [Generation Tasks](#content)
@@ -86,6 +94,8 @@ Also known as **Free-form Answer Tasks**
 | Commonsense for Generative Multi-Hop Question Answering Tasks | EMNLP<br>2018 | NarrativeQA/<br>WikiHop | [paper](https://www.aclweb.org/anthology/D18-1454/) <br> [code](https://github.com/yicheng-w/CommonSenseMultiHopQA) <br> [note](http://xingluxi.github.io/2019/02/21/paper-emnlp2018-mhpgm/) |
 | COMET: Commonsense Transformers for Automatic Knowledge Graph Construction | ACL<br>2019 | Atomic | [paper](https://arxiv.org/abs/1906.05317)<br>[code](https://github.com/atcbosselut/comet-commonsense)<br>[note](https://indexfziq.github.io/2019/07/03/COMET/) |
 | Incorporating External Knowledge into Machine Reading for Generative Question Answering | EMNLP<br>2019 | MS MARCO | [paper](http://arxiv.org/abs/1909.02745)<br>[note](http://xingluxi.github.io/2019/10/13/paper-emnlp2019-keag/) |
+| Modeling Event Background for If-Then Commonsense Reasoning Using Context-aware Variational Autoencoder | EMNLP<br>2019 | Event2Mind | [paper](http://arxiv.org/abs/1909.08824) |
+| Dynamic Knowledge Graph Construction for Zero-shot Commonsense Question Answering | 2019 | SocialIQA<br>StoryCommonsense | [paper](http://arxiv.org/abs/1911.03876) |
 
 
 ## [Benchmark Datasets](#content)
@@ -192,6 +202,24 @@ Also known as **Free-form Answer Tasks**
     
     Authors: *Lifu Huang, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi*
 
+    * Type: Multiple-Choice;
+
+1. **CODAH**: An Adversarially-Authored Question Answering Dataset for Common Sense. ACL,2019,workshop. [[paper](https://www.aclweb.org/anthology/W19-2008) / [data](https://github.com/Websail-NU/CODAH) ]
+
+    Authors: *Michael Chen, Mike D’Arcy, Alisa Liu, Jared Fernandez, Doug Downey*
+    
+    * Type: Multiple-Choice;
+
+1. **CommonGen**: A Constrained Text Generation Dataset Towards Generative Commonsense Reasoning. 2019. [ [paper](http://arxiv.org/abs/1911.03705) / [data](http://inklab.usc.edu/CommonGen/) ]
+
+    Authors: *Bill Yuchen Lin, Ming Shen, Yu Xing, Pei Zhou, Xiang Ren*
+    
+    * Type: Generative;
+
+3. **QASC**: A Dataset for Question Answering via Sentence Composition. 2019. [[paper](http://arxiv.org/abs/1910.11473) / [data](https://leaderboard.allenai.org/qasc) ]
+
+    Authors: *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal*
+    
     * Type: Multiple-Choice;
 
 Note: *Only consider the benchmark datasets/tasks which require knowledge to complete.*

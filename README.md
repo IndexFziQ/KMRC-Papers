@@ -57,7 +57,7 @@ Update on **Mar. 4, 2020**.
 | Dynamic Integration of Background Knowledge in Neural NLU Systems | 2018 | SQuAD/<br>TriviaQA | [paper](https://arxiv.org/pdf/1706.02596.pdf)<br>[note](http://xingluxi.github.io/2019/03/06/paper-2018-refinewordemb/) |
 | Explicit Utilization of General Knowledge in Machine Reading Comprehension | ACL<br>2019 | SQuAD | [paper](https://www.aclweb.org/anthology/P19-1219) <br> [note](http://xingluxi.github.io/2019/07/17/paper-acl2019-kar/) |
 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | ACL<br>2019 | SQuAD/<br>ReCoRD | [paper](https://www.aclweb.org/anthology/P19-1226/) <br> [note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/) |
-| Machine Reading Comprehension Using Structural Knowledge Graph-aware Network | EMNLP<br>2019<br>short | ReCoRD | [paper](Machine Reading Comprehension Using Structural Knowledge Graph-aware Network) |
+| Machine Reading Comprehension Using Structural Knowledge Graph-aware Network | EMNLP<br>2019<br>short | ReCoRD | [paper](https://www.aclweb.org/anthology/D19-1602) |
 | `+` SG-Net: Syntax-Guided Machine Reading Comprehension | AAAI<br>2020 | SQuAD2.0<br>RACE | [paper](http://arxiv.org/abs/1908.05147) | 
 | `+` Semantics-aware BERT for Language Understanding | AAAI<br>2020 | SQuAD2.0 | [paper](http://arxiv.org/abs/1909.02209) |
 

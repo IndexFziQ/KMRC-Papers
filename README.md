@@ -8,7 +8,7 @@ Institute of Information Engineering, Chinese Academy of Sciences, Beijing, Chin
 
 Update on **Mar. 4, 2020**.
 
-(the current version only contains the works published on the conferences or journals, we will continuously update this list.)
+(We will continuously update this list.)
 
 -------
 
@@ -216,7 +216,7 @@ Also known as **Free-form Answer Tasks**
     
     * Type: Generative;
 
-3. **QASC**: A Dataset for Question Answering via Sentence Composition. 2019. [[paper](http://arxiv.org/abs/1910.11473) / [data](https://leaderboard.allenai.org/qasc) ]
+1. **QASC**: A Dataset for Question Answering via Sentence Composition. 2019. [[paper](http://arxiv.org/abs/1910.11473) / [data](https://leaderboard.allenai.org/qasc) ]
 
     Authors: *Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal*
     
@@ -228,3 +228,21 @@ Note: *Only consider the benchmark datasets/tasks which require knowledge to com
 ## Other Paper List About MRC
 
 [thunlp/RCPapers](https://github.com/thunlp/RCPapers)
+
+
+## PhD Thesis on MRC
+
+1. Neural Reading Comprehension and Beyond
+
+    *Author*: Danqi Chen (Stanford University)
+    *Year*: 2018
+    
+1. 机器阅读理解的关键技术研究
+
+    *Author*: Bingning Wang (Institute of Automation, Chinese Academy of Sciences)
+    *Year*: 2018
+    
+1. 机器阅读理解与文本问答技术研究
+
+    *Author*: Minghao Hu (Graduate School of National University of Defense Technology)
+    *Year*: 2019

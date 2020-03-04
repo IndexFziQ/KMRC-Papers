@@ -83,7 +83,7 @@ Update on **Mar. 4, 2020**.
 | Abductive Reasoning as Self-Supervision for Common Sense Question Answering | 2019 | Swag<br>HellaSwag | [paper](http://arxiv.org/abs/1909.03099) |
 | Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering| 2019 | ANLI/<br>SocialIQA | [paper](http://arxiv.org/abs/1909.08855)<br>[note](http://xingluxi.github.io/2019/09/26/paper-kn-mcqa-1909-08855/) |
 | Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering | AAAI<br>2020 | CSQA | [paper](http://arxiv.org/abs/1909.05311)<br>[note](http://xingluxi.github.io/2019/09/17/paper-csqa-1909-05311/) | 
-| K-A DAPTER: Infusing Knowledge into Pre-Trained Models with Adapters | 2020 | CosmosQA | [paper](http://arxiv.org/abs/2002.01808)<br>[note](https://zhuanlan.zhihu.com/p/106107747) |
+| K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters | 2020 | CosmosQA | [paper](http://arxiv.org/abs/2002.01808)<br>[note](https://xingluxi.github.io/2020/02/10/paper-2019-k-adapter/) |
 
 
 ## [Generation Tasks](#content)

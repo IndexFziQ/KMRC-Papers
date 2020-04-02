@@ -36,6 +36,10 @@ Update on **Mar. 4, 2020**.
     
     Authors: *Xin Zhang, An Yang, Sujian Li, Yizhong Wang*
     
+1. **Natural Language QA Approaches using Reasoning with External Knowledge**. 2020. [[paper](http://arxiv.org/abs/2003.03446)]
+
+    Authors: *Chitta Baral, Pratyay Banerjee, Kuntal Pal, Arindam Mitra*
+    
 
 ## [Cloze Style Tasks](#content)
 

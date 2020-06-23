@@ -10,7 +10,7 @@ Update on **Oct. 23, 2019**.
 
 (the current version only contains the works published on the conferences or journals, we will continuously update this list.)
 
-Because of some mistakes, this version can not be updated. For the latest version, please jump to [XingLuxi/KMRC-Papers](https://github.com/XingLuxi/KMRC-Papers).
+***Because of some mistakes, this version can not be updated. For the latest version, please jump to [XingLuxi/KMRC-Papers](https://github.com/XingLuxi/KMRC-Papers).***
 
 -------
 

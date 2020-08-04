@@ -8,7 +8,10 @@ Institute of Information Engineering, Chinese Academy of Sciences, Beijing, Chin
 
 Update on **Mar. 4, 2020**.
 
-(We will continuously update this list.)
+~~(We will continuously update this list.)~~
+
+(Note: we will update this list in a new repo.: https://github.com/XingLuxi/KMRC-Research-Archive)
+
 
 -------
 
